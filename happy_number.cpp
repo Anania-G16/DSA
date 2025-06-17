@@ -33,9 +33,9 @@ int main()
     cin>>n;
 
     if(isHappy(n))
-        cout<<"Happy!!!!!!!!!!!!!"<<endl;
+        cout<<"HAPPY!!!!!!!!!!!!!"<<endl;
     else
-        cout<<"NOT Happy"<<endl;
+        cout<<"NOT HAPPY"<<endl;
     
 
     return 0;

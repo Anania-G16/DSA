@@ -28,7 +28,7 @@ using namespace std;
 int main()
 {
     int n;
-    while(true){
+    
     cout<<"Enter a number: ";
     cin>>n;
 
@@ -36,7 +36,7 @@ int main()
         cout<<"Happy!!!!!!!!!!!!!"<<endl;
     else
         cout<<"NOT Happy"<<endl;
-    }
+    
 
     return 0;
 }
